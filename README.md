@@ -1,2 +1,2 @@
 # calculator-javafx
-Simple calculator as JavaFX application written in Java.
+Simple calculator written in Java as JavaFX application.
