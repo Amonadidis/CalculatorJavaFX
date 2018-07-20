@@ -1,0 +1,51 @@
+*
+{
+	-fx-background-radius: 0.0;
+}
+#ArithmeticButton
+{
+	-fx-text-fill: white;
+	-fx-background-color: darkorange;
+	-fx-border-color: darkgray;
+	-fx-border-width: 0.5px;
+	-fx-border-radius: 0.0;
+}
+
+#ArithmeticButton:pressed
+{
+	-fx-background-color: #ee8c00;
+}
+
+#NumberButton
+{
+	-fx-text-fill: black;
+	-fx-background-color: lightgray;
+	-fx-border-color: darkgray;
+	-fx-border-width: 0.5px;
+	-fx-border-radius: 0.0;
+}
+
+#NumberButton:pressed
+{
+	-fx-background-color: darkgray;
+}
+
+#ClearButton
+{
+	-fx-text-fill: black;
+	-fx-background-color: silver;
+	-fx-border-color: darkgray;
+	-fx-border-width: 0.5px;
+	-fx-border-radius: 0.0;
+}
+
+#ClearButton:pressed
+{
+	-fx-background-color: darkgray;
+}
+
+#DisplayLabel
+{
+	-fx-text-fill: white;
+	-fx-background-color: black;
+}
